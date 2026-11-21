@@ -39,7 +39,7 @@ and locally hosted generative AI, delivered through APIs, web dashboards and mob
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/lamys-essid) · ✉️ [lamys.essid2015@gmail.com](mailto:lamys.essid2015@gmail.com)
+🌐 [Portfolio](https://lamisessid.pages.dev) · [LinkedIn](https://www.linkedin.com/in/lamys-essid) · ✉️ [lamys.essid2015@gmail.com](mailto:lamys.essid2015@gmail.com)
 
 ---
 
