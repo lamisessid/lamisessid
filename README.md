@@ -28,8 +28,8 @@ and locally hosted generative AI, delivered through APIs, web dashboards and mob
 |---|---|---|
 | [**OZONE-AID**](https://github.com/lamisessid/ozone-aid-showcase) | Engineering final-year project (graded *Très bien*): an integrated platform built on 8 years of real data from a car repair workshop: data warehouse, survival model, diagnostic copilot with a local LLM | FastAPI · PostgreSQL · DuckDB · LangGraph · Mistral (Ollama) · React · React Native |
 | [**Pomme de Pain ML**](https://github.com/lamisessid/pomme-de-pain-ml) | Next-day demand forecasting for a fast-food outlet: multi-task LSTM with attention, **14.8 % WAPE** vs 22.4 % for the baseline, plus order simulation | PyTorch · FastAPI · React · Recharts · Docker |
+| [**Holiday Beach**](https://github.com/lamisessid/holiday-beach-showcase) | Master's final-year project (graded *Très bien*): web and mobile platform for a 4-star hotel in Djerba: online booking, invoicing, admin dashboard, Gemini chatbot connected to live availability | React · TypeScript · FastAPI · PostgreSQL · Flask · Gemini · React Native |
 <!-- Décommente chaque ligne une fois le dépôt correspondant publié :
-| [**Holiday Beach Platform**](https://github.com/lamisessid/holiday-beach-showcase) | Master's final project: digital platform for a 4-star hotel in Djerba | React · TypeScript · FastAPI · PostgreSQL · React Native |
 | [**Sentinelle**](https://github.com/lamisessid/sentinelle) | Multimodal clinical agent estimating cognitive load from voice | CNN-LSTM · Mistral 7B · LangChain · ChromaDB |
 | [**JARVIS Core**](https://github.com/lamisessid/jarvis-core) | Multi-agent content production system | LangGraph · LangChain · RAG · FastAPI |
 | [**Marketing RAG Chatbot**](https://github.com/lamisessid/rag-marketing-chatbot) | RAG chatbot over a course corpus | PyMuPDF · FAISS · Llama 3.3 70B · Gradio |
