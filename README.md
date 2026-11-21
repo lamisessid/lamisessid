@@ -26,7 +26,7 @@ and locally hosted generative AI, delivered through APIs, web dashboards and mob
 
 | Project | What it is | Stack |
 |---|---|---|
-| **OZONE-AID** *(showcase coming soon)* | Engineering final-year project (graded *Très bien*): an integrated platform built on 8 years of real data from a car repair workshop: data warehouse, survival model, diagnostic copilot with a local LLM | FastAPI · PostgreSQL · DuckDB · LangGraph · Mistral (Ollama) · React · React Native |
+| [**OZONE-AID**](https://github.com/lamisessid/ozone-aid-showcase) | Engineering final-year project (graded *Très bien*): an integrated platform built on 8 years of real data from a car repair workshop: data warehouse, survival model, diagnostic copilot with a local LLM | FastAPI · PostgreSQL · DuckDB · LangGraph · Mistral (Ollama) · React · React Native |
 | [**Pomme de Pain ML**](https://github.com/lamisessid/pomme-de-pain-ml) | Next-day demand forecasting for a fast-food outlet: multi-task LSTM with attention, **14.8 % WAPE** vs 22.4 % for the baseline, plus order simulation | PyTorch · FastAPI · React · Recharts · Docker |
 <!-- Décommente chaque ligne une fois le dépôt correspondant publié :
 | [**Holiday Beach Platform**](https://github.com/lamisessid/holiday-beach-showcase) | Master's final project: digital platform for a 4-star hotel in Djerba | React · TypeScript · FastAPI · PostgreSQL · React Native |
